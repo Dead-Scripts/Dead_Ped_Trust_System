@@ -1,4 +1,5 @@
 ### PedTrustSystem
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
 
     Basically, you ever want to give players access to their own personal ped, then trust and untrust others to use it? That's what this script is for! This script allows you to trust and untrust players to your "personal" ped.
 
